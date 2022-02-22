@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "https://iptvx.one/xmltv.dtd">
+<tv generator-info-name="IptvX.one" generator-info-url="https://iptvx.one/"> 
+<channel id="SPORT TV1">
+    <display-name lang="pt">PT SPORT TV 1</display-name>
+    <url>https://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV2">
+    <display-name lang="pt">PT SPORT TV 2</display-name>
+    <url>https://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV3">
+    <display-name lang="pt">PT SPORT TV 3</display-name>
+    <url>https://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV4">
+    <display-name lang="pt">PT SPORT TV 4</display-name>
+    <url>https://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV5">
+    <display-name lang="pt">PT SPORT TV 5</display-name>
+    <url>https://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV1 HD">
+    <display-name lang="pt">|PT| SPORT TV 1 FHD</display-name>
+    <url>https://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV2 HD">
+    <display-name lang="pt">|PT| SPORT TV 2 FHD</display-name>
+    <url>https://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV3 HD">
+    <display-name lang="pt">|PT| SPORT TV 3 FHD</display-name>
+    <url>https://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV4 HD">
+    <display-name lang="pt">|PT| SPORT TV 4 FHD</display-name>
+    <url>https://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV5 HD">
+    <display-name lang="pt">|PT| SPORT TV 5 FHD</display-name>
+    <url>https://www.nos.pt</url>
+  </channel>
+  <programme start="20220222010000 +0000" stop="20220222030000 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga Italiana 2021-22 - Cagliari x Nápoles</title>
+  </programme>
+  <programme start="20220222030000 +0000" stop="20220222034000 +0000" channel="SPORT TV1">
+    <title lang="pt">UFC - Walker x Hill</title>
+  </programme>
+  <programme start="20220222034000 +0000" stop="20220222060000 +0000" channel="SPORT TV1">
+    <title lang="pt">UFC - Walker x Hill</title>
+  </programme>
+  <programme start="20220222060000 +0000" stop="20220222091000 +0000" channel="SPORT TV1">
+    <title lang="pt">NBA - All-Star Saturday Night</title>
+  </programme>
+  <programme start="20220222091000 +0000" stop="20220222101000 +0000" channel="SPORT TV1">
+    <title lang="pt">Premier League - Resumos e Reportagens</title>
+  </programme>
+  <programme start="20220222101000 +0000" stop="20220222121500 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga Portugal - Santa Clara x Portimonense</title>
+  </programme>
+  <programme start="20220222121500 +0000" stop="20220222142000 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga Portugal - Boavista x Benfica</title>
+  </programme>
+  <programme start="20220222142000 +0000" stop="20220222163000 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga Portugal - Sporting x Estoril</title>
+  </programme>
+  <programme start="20220222163000 +0000" stop="20220222185000 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga Portugal - Moreirense x FC Porto</title>
+  </programme>
+  <programme start="20220222185000 +0000" stop="20220222212000 +0000" channel="SPORT TV1">
+    <title lang="pt">NBA - All-Star Game</title>
+  </programme>
+  <programme start="20220222212000 +0000" stop="20220222215500 +0000" channel="SPORT TV1">
+    <title lang="pt">eLiga Portugal</title>
+  </programme>
+  <programme start="20220222215500 +0000" stop="20220222221500 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga Portugal 2 - Magazine Golos</title>
+  </programme>
+  <programme start="20220222221500 +0000" stop="20220223003000 +0000" channel="SPORT TV1">
+    <title lang="pt">Taça Libertadores - Everton de Viña del Mar x Monagas - 1ª Mão (Direto)</title>
+  </programme>
+  <programme start="20220222060000 +0000" stop="20220222100000 +0000" channel="SPORT TV2">
+    <title lang="pt">ATP World Tour 500 - Dubai</title>
+  </programme>
+  <programme start="20220222100000 +0000" stop="20220222115000 +0000" channel="SPORT TV2">
+    <title lang="pt">Liga Italiana 2021-22 - Bolonha x Spezia</title>
+  </programme>
+  <programme start="20220222115000 +0000" stop="20220222134000 +0000" channel="SPORT TV2">
+    <title lang="pt">Campeonato Argentino - Banfield x Gimnasia La Plata</title>
+  </programme>
+  <programme start="20220222134000 +0000" stop="20220222153500 +0000" channel="SPORT TV2">
+    <title lang="pt">Liga Italiana 2021-22 - Cagliari x Nápoles</title>
+  </programme>
+  <programme start="20220222153500 +0000" stop="20220222173000 +0000" channel="SPORT TV2">
+    <title lang="pt">Premier League - Crystal Palace x Chelsea</title>
+  </programme>
+  <programme start="20220222173000 +0000" stop="20220222192000 +0000" channel="SPORT TV2">
+    <title lang="pt">Liga Italiana 2021-22 - Juventus x Torino</title>
+  </programme>
+  <programme start="20220222192000 +0000" stop="20220222211500 +0000" channel="SPORT TV2">
+    <title lang="pt">Campeonato Carioca 2022 - Fluminense x Volta Redonda</title>
+  </programme>
+  <programme start="20220222211500 +0000" stop="20220222231000 +0000" channel="SPORT TV2">
+    <title lang="pt">Campeonato Argentino - Newell</title>
+  </programme>
+  <programme start="20220222231000 +0000" stop="20220223000000 +0000" channel="SPORT TV2">
+    <title lang="pt">UEFA Europa League - Antevisão Playoff - 2ª Mão</title>
+  </programme>
+  <programme start="20220222001000 +0000" stop="20220222010000 +0000" channel="SPORT TV3">
+    <title lang="pt">Combate Nacional de Kickboxing - Golden League - Fight Night X</title>
+  </programme>
+  <programme start="20220222010000 +0000" stop="20220222040000 +0000" channel="SPORT TV3">
+    <title lang="pt">WWE Raw (Direto)</title>
+  </programme>
+  <programme start="20220222040000 +0000" stop="20220222100000 +0000" channel="SPORT TV3">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222100000 +0000" stop="20220222130000 +0000" channel="SPORT TV3">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222130000 +0000" stop="20220222145000 +0000" channel="SPORT TV3">
+    <title lang="pt">NHL - Montréal Canadiens x Toronto Maple Leafs</title>
+  </programme>
+  <programme start="20220222145000 +0000" stop="20220222152000 +0000" channel="SPORT TV3">
+    <title lang="pt">GC32 Racing Tour - Magazine</title>
+  </programme>
+  <programme start="20220222152000 +0000" stop="20220222161000 +0000" channel="SPORT TV3">
+    <title lang="pt">Sports Unlimited Magazine</title>
+  </programme>
+  <programme start="20220222161000 +0000" stop="20220222163000 +0000" channel="SPORT TV3">
+    <title lang="pt">Motorcycle Sports - Magazine</title>
+  </programme>
+  <programme start="20220222163000 +0000" stop="20220222170000 +0000" channel="SPORT TV3">
+    <title lang="pt">WRC - Antevisão Rali da Suécia</title>
+  </programme>
+  <programme start="20220222170000 +0000" stop="20220222190000 +0000" channel="SPORT TV3">
+    <title lang="pt">World Athletics Indoor Tour Gold - Copernicus Cup, Torun, Polónia (Direto)</title>
+  </programme>
+  <programme start="20220222190000 +0000" stop="20220222213500 +0000" channel="SPORT TV3">
+    <title lang="pt">Judo - Grand Slam, Tel-Aviv - 3º Dia</title>
+  </programme>
+  <programme start="20220222213500 +0000" stop="20220222220000 +0000" channel="SPORT TV3">
+    <title lang="pt">Camp. Nacional Todo-o-Terreno - Baja Montes Alentejanos</title>
+  </programme>
+  <programme start="20220222220000 +0000" stop="20220223000000 +0000" channel="SPORT TV3">
+    <title lang="pt">NHL - Montréal Canadiens x Toronto Maple Leafs</title>
+  </programme>
+  <programme start="20220222030000 +0000" stop="20220222090000 +0000" channel="SPORT TV4">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222090000 +0000" stop="20220222100000 +0000" channel="SPORT TV4">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222100000 +0000" stop="20220222140000 +0000" channel="SPORT TV4">
+    <title lang="pt">ATP World Tour 500 - Dubai (Direto)</title>
+  </programme>
+  <programme start="20220222140000 +0000" stop="20220222145000 +0000" channel="SPORT TV4">
+    <title lang="pt">Watersports World</title>
+  </programme>
+  <programme start="20220222145000 +0000" stop="20220222150000 +0000" channel="SPORT TV4">
+    <title lang="pt">Golfe - 92º Portuguese International Amateur Championship</title>
+  </programme>
+  <programme start="20220222150000 +0000" stop="20220222190000 +0000" channel="SPORT TV4">
+    <title lang="pt">ATP World Tour 500 - Dubai (Direto)</title>
+  </programme>
+  <programme start="20220222190000 +0000" stop="20220222211000 +0000" channel="SPORT TV4">
+    <title lang="pt">WWE Raw</title>
+  </programme>
+  <programme start="20220222211000 +0000" stop="20220222231000 +0000" channel="SPORT TV4">
+    <title lang="pt">World Athletics Indoor Tour Gold - Copernicus Cup, Torun, Polónia</title>
+  </programme>
+  <programme start="20220222231000 +0000" stop="20220223010000 +0000" channel="SPORT TV4">
+    <title lang="pt">Andebol - Liga dos Campeões - HBC CSKA x Metz Handball</title>
+  </programme>
+  <programme start="20220222014000 +0000" stop="20220222024000 +0000" channel="SPORT TV5">
+    <title lang="pt">NHL - Montréal Canadiens x Toronto Maple Leafs (Direto)</title>
+  </programme>
+  <programme start="20220222024000 +0000" stop="20220222060000 +0000" channel="SPORT TV5">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222060000 +0000" stop="20220222143000 +0000" channel="SPORT TV5">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222143000 +0000" stop="20220222163000 +0000" channel="SPORT TV5">
+    <title lang="pt">ATP World Tour 250 - Chile Open (Direto)</title>
+  </programme>
+  <programme start="20220222163000 +0000" stop="20220222170000 +0000" channel="SPORT TV5">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222170000 +0000" stop="20220222190000 +0000" channel="SPORT TV5">
+    <title lang="pt">ATP World Tour 250 - Chile Open (Direto)</title>
+  </programme>
+  <programme start="20220222190000 +0000" stop="20220222220000 +0000" channel="SPORT TV5">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222220000 +0000" stop="20220223030000 +0000" channel="SPORT TV5">
+    <title lang="pt">ATP World Tour 250 - Chile Open (Direto)</title>
+  </programme>
+  <programme start="20220222010000 +0000" stop="20220222030000 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">Liga Italiana 2021-22 - Cagliari x Nápoles</title>
+  </programme>
+  <programme start="20220222030000 +0000" stop="20220222034000 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">UFC - Walker x Hill</title>
+  </programme>
+  <programme start="20220222034000 +0000" stop="20220222060000 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">UFC - Walker x Hill</title>
+  </programme>
+  <programme start="20220222060000 +0000" stop="20220222091000 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">NBA - All-Star Saturday Night</title>
+  </programme>
+  <programme start="20220222091000 +0000" stop="20220222101000 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">Premier League - Resumos e Reportagens</title>
+  </programme>
+  <programme start="20220222101000 +0000" stop="20220222121500 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">Liga Portugal - Santa Clara x Portimonense</title>
+  </programme>
+  <programme start="20220222121500 +0000" stop="20220222142000 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">Liga Portugal - Boavista x Benfica</title>
+  </programme>
+  <programme start="20220222142000 +0000" stop="20220222163000 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">Liga Portugal - Sporting x Estoril</title>
+  </programme>
+  <programme start="20220222163000 +0000" stop="20220222185000 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">Liga Portugal - Moreirense x FC Porto</title>
+  </programme>
+  <programme start="20220222185000 +0000" stop="20220222212000 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">NBA - All-Star Game</title>
+  </programme>
+  <programme start="20220222212000 +0000" stop="20220222215500 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">eLiga Portugal</title>
+  </programme>
+  <programme start="20220222215500 +0000" stop="20220222221500 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">Liga Portugal 2 - Magazine Golos</title>
+  </programme>
+  <programme start="20220222221500 +0000" stop="20220223003000 +0000" channel="SPORT TV1 HD">
+    <title lang="pt">Taça Libertadores - Everton de Viña del Mar x Monagas - 1ª Mão (Direto)</title>
+  </programme>
+  <programme start="20220222060000 +0000" stop="20220222100000 +0000" channel="SPORT TV2 HD">
+    <title lang="pt">ATP World Tour 500 - Dubai</title>
+  </programme>
+  <programme start="20220222100000 +0000" stop="20220222115000 +0000" channel="SPORT TV2 HD">
+    <title lang="pt">Liga Italiana 2021-22 - Bolonha x Spezia</title>
+  </programme>
+  <programme start="20220222115000 +0000" stop="20220222134000 +0000" channel="SPORT TV2 HD">
+    <title lang="pt">Campeonato Argentino - Banfield x Gimnasia La Plata</title>
+  </programme>
+  <programme start="20220222134000 +0000" stop="20220222153500 +0000" channel="SPORT TV2 HD">
+    <title lang="pt">Liga Italiana 2021-22 - Cagliari x Nápoles</title>
+  </programme>
+  <programme start="20220222153500 +0000" stop="20220222173000 +0000" channel="SPORT TV2 HD">
+    <title lang="pt">Premier League - Crystal Palace x Chelsea</title>
+  </programme>
+  <programme start="20220222173000 +0000" stop="20220222192000 +0000" channel="SPORT TV2 HD">
+    <title lang="pt">Liga Italiana 2021-22 - Juventus x Torino</title>
+  </programme>
+  <programme start="20220222192000 +0000" stop="20220222211500 +0000" channel="SPORT TV2 HD">
+    <title lang="pt">Campeonato Carioca 2022 - Fluminense x Volta Redonda</title>
+  </programme>
+  <programme start="20220222211500 +0000" stop="20220222231000 +0000" channel="SPORT TV2 HD">
+    <title lang="pt">Campeonato Argentino - Newell</title>
+  </programme>
+  <programme start="20220222231000 +0000" stop="20220223000000 +0000" channel="SPORT TV2 HD">
+    <title lang="pt">UEFA Europa League - Antevisão Playoff - 2ª Mão</title>
+  </programme>
+  <programme start="20220222001000 +0000" stop="20220222010000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">Combate Nacional de Kickboxing - Golden League - Fight Night X</title>
+  </programme>
+  <programme start="20220222010000 +0000" stop="20220222040000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">WWE Raw (Direto)</title>
+  </programme>
+  <programme start="20220222040000 +0000" stop="20220222100000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222100000 +0000" stop="20220222130000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222130000 +0000" stop="20220222145000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">NHL - Montréal Canadiens x Toronto Maple Leafs</title>
+  </programme>
+  <programme start="20220222145000 +0000" stop="20220222152000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">GC32 Racing Tour - Magazine</title>
+  </programme>
+  <programme start="20220222152000 +0000" stop="20220222161000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">Sports Unlimited Magazine</title>
+  </programme>
+  <programme start="20220222161000 +0000" stop="20220222163000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">Motorcycle Sports - Magazine</title>
+  </programme>
+  <programme start="20220222163000 +0000" stop="20220222170000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">WRC - Antevisão Rali da Suécia</title>
+  </programme>
+  <programme start="20220222170000 +0000" stop="20220222190000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">World Athletics Indoor Tour Gold - Copernicus Cup, Torun, Polónia (Direto)</title>
+  </programme>
+  <programme start="20220222190000 +0000" stop="20220222213500 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">Judo - Grand Slam, Tel-Aviv - 3º Dia</title>
+  </programme>
+  <programme start="20220222213500 +0000" stop="20220222220000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">Camp. Nacional Todo-o-Terreno - Baja Montes Alentejanos</title>
+  </programme>
+  <programme start="20220222220000 +0000" stop="20220223000000 +0000" channel="SPORT TV3 HD">
+    <title lang="pt">NHL - Montréal Canadiens x Toronto Maple Leafs</title>
+  </programme>
+  <programme start="20220222030000 +0000" stop="20220222090000 +0000" channel="SPORT TV4 HD">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222090000 +0000" stop="20220222100000 +0000" channel="SPORT TV4 HD">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222100000 +0000" stop="20220222140000 +0000" channel="SPORT TV4 HD">
+    <title lang="pt">ATP World Tour 500 - Dubai (Direto)</title>
+  </programme>
+  <programme start="20220222140000 +0000" stop="20220222145000 +0000" channel="SPORT TV4 HD">
+    <title lang="pt">Watersports World</title>
+  </programme>
+  <programme start="20220222145000 +0000" stop="20220222150000 +0000" channel="SPORT TV4 HD">
+    <title lang="pt">Golfe - 92º Portuguese International Amateur Championship</title>
+  </programme>
+  <programme start="20220222150000 +0000" stop="20220222190000 +0000" channel="SPORT TV4 HD">
+    <title lang="pt">ATP World Tour 500 - Dubai (Direto)</title>
+  </programme>
+  <programme start="20220222190000 +0000" stop="20220222211000 +0000" channel="SPORT TV4 HD">
+    <title lang="pt">WWE Raw</title>
+  </programme>
+  <programme start="20220222211000 +0000" stop="20220222231000 +0000" channel="SPORT TV4 HD">
+    <title lang="pt">World Athletics Indoor Tour Gold - Copernicus Cup, Torun, Polónia</title>
+  </programme>
+  <programme start="20220222231000 +0000" stop="20220223010000 +0000" channel="SPORT TV4 HD">
+    <title lang="pt">Andebol - Liga dos Campeões - HBC CSKA x Metz Handball</title>
+  </programme>
+  <programme start="20220222014000 +0000" stop="20220222024000 +0000" channel="SPORT TV5 HD">
+    <title lang="pt">NHL - Montréal Canadiens x Toronto Maple Leafs (Direto)</title>
+  </programme>
+  <programme start="20220222024000 +0000" stop="20220222060000 +0000" channel="SPORT TV5 HD">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222060000 +0000" stop="20220222143000 +0000" channel="SPORT TV5 HD">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222143000 +0000" stop="20220222163000 +0000" channel="SPORT TV5 HD">
+    <title lang="pt">ATP World Tour 250 - Chile Open (Direto)</title>
+  </programme>
+  <programme start="20220222163000 +0000" stop="20220222170000 +0000" channel="SPORT TV5 HD">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222170000 +0000" stop="20220222190000 +0000" channel="SPORT TV5 HD">
+    <title lang="pt">ATP World Tour 250 - Chile Open (Direto)</title>
+  </programme>
+  <programme start="20220222190000 +0000" stop="20220222220000 +0000" channel="SPORT TV5 HD">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20220222220000 +0000" stop="20220223030000 +0000" channel="SPORT TV5 HD">
+    <title lang="pt">ATP World Tour 250 - Chile Open (Direto)</title>
+  </programme>
+</tv>
