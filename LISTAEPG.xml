@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE tv SYSTEM "https://iptvx.one/xmltv.dtd">
-<tv generator-info-name="IptvX.one" generator-info-url="https://iptvx.one/"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
 <channel id="SPORT TV1">
     <display-name lang="pt">PT SPORT TV 1</display-name>
     <url>https://www.nos.pt</url>
